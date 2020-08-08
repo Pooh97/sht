@@ -1,2 +1,2 @@
 # sht
-That's our desperate try to program some stuff in R
+That's our desperate try to code some stuff in R
